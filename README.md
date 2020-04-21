@@ -10,6 +10,7 @@ I add the ColorInput shader that is shown in the practices' guide. I have kept t
 
 ## Tools and references
 - [Processing 3.5.4](http://processing.org/)
+- ColorInput.glsl
 
 ## Take a peek of result
 ![](./ShaderPool/images/shader.gif)
